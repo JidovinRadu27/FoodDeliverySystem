@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Proiecte/Autentificare - Copy (2)/app/src/main/res/layout/activity_food_detail.xml" value="0.1" />
+        <entry key="..\:/Proiecte/Autentificare - Copy (2)/app/src/main/res/layout/activity_food_list.xml" value="0.1" />
+        <entry key="..\:/Proiecte/Autentificare - Copy (2)/app/src/main/res/layout/content_home.xml" value="0.2717391304347826" />
+        <entry key="..\:/Proiecte/Autentificare - Copy (2)/app/src/main/res/layout/food_item.xml" value="0.25" />
+        <entry key="..\:/Proiecte/Autentificare - Copy (2)/app/src/main/res/layout/menu_item.xml" value="0.1" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/activity_home2.xml" value="0.15729166666666666" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/activity_main.xml" value="0.15729166666666666" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/app_bar_home.xml" value="0.22" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/app_bar_home2.xml" value="0.3359375" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/content_home.xml" value="0.25" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/content_home2.xml" value="0.14010416666666667" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/content_home3.xml" value="0.3359375" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/fragment_gallery.xml" value="0.3359375" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/fragment_home.xml" value="0.15729166666666666" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/fragment_slideshow.xml" value="0.15729166666666666" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/menu_item.xml" value="0.18" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/nav_header_home.xml" value="0.1" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/layout/nav_header_home2.xml" value="0.3359375" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/menu/activity_home2_drawer.xml" value="0.3359375" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/menu/activity_home_drawer.xml" value="0.3359375" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/menu/activity_main_drawer.xml" value="0.33" />
+        <entry key="..\:/Proiecte/Autentificare/app/src/main/res/menu/home.xml" value="0.33" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/drawable/ic_baseline_attach_money_24.xml" value="0.2315" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.1" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/activity_cart.xml" value="0.33" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/activity_favorites.xml" value="0.1" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/activity_food_detail.xml" value="0.18" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/activity_food_list.xml" value="0.22" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/activity_home.xml" value="0.3359375" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/activity_login.xml" value="0.33" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/activity_order_status.xml" value="0.15729166666666666" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/activity_register.xml" value="0.15989583333333332" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/activity_show_comment.xml" value="0.11277173913043478" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/app_bar_home.xml" value="0.33" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/cart_layout.xml" value="0.33" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/content_home.xml" value="0.1" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/content_home3.xml" value="0.15729166666666666" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/favorites_item.xml" value="0.1" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/food_item.xml" value="0.22" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/fragment_gallery.xml" value="0.16" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/fragment_home.xml" value="0.15729166666666666" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/fragment_slideshow.xml" value="0.15729166666666666" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/menu_item.xml" value="0.1" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/nav_header_home.xml" value="0.33" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/nav_header_home2.xml" value="0.15885416666666666" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/order_address_comment.xml" value="0.25" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/order_layout.xml" value="0.15729166666666666" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/layout/show_comment_layout.xml" value="0.1" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/menu/activity_home2_drawer.xml" value="0.3359375" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/menu/activity_home_drawer.xml" value="0.3359375" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/menu/activity_main_drawer.xml" value="0.3359375" />
+        <entry key="..\:/Proiecte/FoodDelivery/app/src/main/res/menu/home.xml" value="0.15729166666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
